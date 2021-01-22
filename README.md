@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing a lot of research on Deep Learning for self-driving cars 🚙. Interested in everything AI.  :octocat:
+I am a Computer Vision engineer experienced at developing state-of-the-art technology in the area of Machine Vision, Robotics and Machine Learning  :octocat:
 
- Wanna chat? :point_right: @ me on [@j0eBee](twitter.com/j0eBee)
+ [@j0eBee](twitter.com/j0eBee)
 
 <!--
 ![gif](
