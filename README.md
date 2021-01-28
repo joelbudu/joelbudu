@@ -2,8 +2,6 @@
 
 I am a Computer Vision engineer experienced at developing state-of-the-art technology in the area of Machine Vision, Robotics and Machine Learning  :octocat:
 
- [@j0eBee](twitter.com/j0eBee)
-
 <!--
 ![gif](
 https://media.giphy.com/media/l3977c5EIanrpRouk/giphy.gif) -->
